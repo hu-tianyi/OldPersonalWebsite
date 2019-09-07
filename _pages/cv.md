@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019: Research Assistant
+  * University of California - Irvine 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Sergio Gago
 
 * Fall 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 3 different slack teams
