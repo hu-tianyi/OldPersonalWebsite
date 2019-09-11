@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**This is Tianyi Hu's homepage!**
+**Welcome to Tianyi Hu's homepage!**
 =====
 **Sorry, This website is still underconstrustion.**
+**Estimated construstion complete at the End of 2019.** 
 =====
