@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-*　Sept.2019 - Present, Honor Year Project: Towards Privacy Leakage in Deep Models
+* Sept.2019 - Present, Honor Year Project: Towards Privacy Leakage in Deep Models
    * University of Edinburgh
    * Supervisor: Prof. Sotirios Tsaftaris
    * Focus on privacy leakage and memorization properties of machine learning models
@@ -38,17 +38,17 @@ Research experience
 Skills
 ======
 * Scientific Analysis
-  * Programming Languages: 	Python, MATLAB, Agda
-  * Document Writing: 		Latex, Markdown, Jupyter Notebook
-  * Platform: 			Caffe
+  * Programming Languages: Python, MATLAB, Agda
+  * Document Writing: Latex, Markdown, Jupyter Notebook
+  * Platform: Caffe
 * Web Application
-  * Programming Languages:	Python, HTML, CSS, JavaScript, PostgreSQL
-  * Platform:			Django, Jekyll
+  * Programming Languages: Python, HTML, CSS, JavaScript, PostgreSQL
+  * Platform: Django, Jekyll
 * Hardware
-  * Programming Languages:	C, C++, microPython, Verilog, Lua
-  * Platform: 			Raspberry Pi, Arduino, ESP8266, ESP32
+  * Programming Languages: C, C++, microPython, Verilog, Lua
+  * Platform: Raspberry Pi, Arduino, ESP8266, ESP32
 * Musical Instruments:
-  * Woodwind：　Clarinet,　Soprano Saxophone
+  * Woodwind： Clarinet, Soprano Saxophone
 
 Publications
 ======
