@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-***Welcome to Tianyi Hu's homepage!***
+**Welcome to Tianyi Hu's homepage!**
 =====
-**Sorry, This website is still underconstrustion.**
+Hi~, I am Tianyi Hu, a senior undergraduate student majoring in Electronics and Computer Science at University of Edinburgh.
+
 
 
