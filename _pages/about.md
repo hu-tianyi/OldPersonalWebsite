@@ -12,5 +12,6 @@ redirect_from:
 =====
 Hi~, I am Tianyi Hu, a senior undergraduate student majoring in Electronics and Computer Science at University of Edinburgh.
 
+![](/images/homepage/welcome.jpg)
 
 
