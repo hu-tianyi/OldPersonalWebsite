@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronics and Computer Science, University of Edinburgh, 2018-2020(expected)
+* M.S. in Computer Engineering, University of California - Irvine, 2020-2022
+
+* B.S. in Electronics and Computer Science (First Class), University of Edinburgh, 2018-2020 
 * B.S. in Information Engineering, South China University of Technology, 2016-2018
 
 Research experience
