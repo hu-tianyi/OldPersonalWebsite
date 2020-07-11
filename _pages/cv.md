@@ -18,7 +18,7 @@ Education
 
 Research experience
 ======
-* Sept.2019 - Present, Honor Year Project: Towards Privacy Leakage in Deep Models
+* Sept.2019 - April.2020 Honor Year Project: Towards Privacy Leakage in Deep Models
    * University of Edinburgh
    * Supervisor: Prof. Sotirios Tsaftaris
    * Focus on privacy leakage and memorization properties of machine learning models
